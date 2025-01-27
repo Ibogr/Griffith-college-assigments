@@ -21,9 +21,9 @@ public class Wordle {
 		System.out.println("𝔀𝓮𝓵𝓬𝓸𝓶𝓮" + "\n        𝓽𝓸" + "\n           𝔀𝓸𝓻𝓭𝓵𝓮 ");
 
 		// Define word categories
-		String[] countryStrings = { "spain", "japan", "italy", "nepal", "india" };
-		String[] animalStrings = { "shark", "tiger", "horse", "camel" };
-		String[] colourStrings = { "brown", "black", "green", "white" };
+		String[] countryStrings = { "Spain", "Japan", "Italy", "Nepal", "India" };
+		String[] animalStrings = { "Shark", "Tiger", "Horse", "Camel" };
+		String[] colourStrings = { "Brown", "Black", "Green", "White" };
 
 		// Display menu
 		System.out.print("          MENU\n" + "_|---------------------------|_\n" + " |  For info type i          |\n"
